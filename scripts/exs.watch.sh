@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo 'main.exs' | entr -r elixir main.exs
+echo 'main.exs' | entr -rs 'mix format && elixir main.exs'
