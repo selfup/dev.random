@@ -2,4 +2,4 @@
 
 set -e
 
-echo 'woo'
+echo 'hello world'

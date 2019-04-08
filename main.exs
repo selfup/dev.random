@@ -1,3 +1,3 @@
 #! /usr/bin/env elixir
 
-IO.puts("woo")
+IO.puts("hello world")

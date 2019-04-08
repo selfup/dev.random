@@ -1,5 +1,5 @@
-fun helloWorld() {
-    println("Hello, World!")
+fun main() {
+    println("hello world")
 }
 
-helloWorld()
+main()
