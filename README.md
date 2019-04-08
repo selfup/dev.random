@@ -1,6 +1,6 @@
 # dev.random
 
-Random things and stuff :tada:
+Spike ideas in multiple languages and have your scripts rerun on save. Uses entr to watch and rerun.
 
 Please install `entr` for the watch scripts to work :smile:
 
