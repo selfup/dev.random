@@ -2,3 +2,5 @@ tmp
 .results.txt
 *.jar
 *.beam
+main
+*.class
