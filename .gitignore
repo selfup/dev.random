@@ -2,4 +2,3 @@ tmp
 .results.txt
 *.jar
 *.beam
-*.vscode
