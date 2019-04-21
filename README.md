@@ -15,4 +15,6 @@ Pick a language. Say ruby.
 
 Now start editing the `main.rb` file. On every save, it will re run the script!
 
+For Rust you more than likely want to run in release mode for benchmarking stuff so you can pass a `-r` flag to the `./scripts/rs.watch.sh -r` script
+
 Have fun :tada:
